@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Webdriverutility.java&apos; to &apos;NINZA_BackEnd_Framework/src/main/java/com.ninza.hrm.api.generic&apos;&#x0D;&#x0A;- Original project: &apos;crm&apos;&#x0D;&#x0A;- Destination element: &apos;NINZA_BackEnd_Framework/src/main/java/com.ninza.hrm.api.generic&apos;&#x0D;&#x0A;- Original element: &apos;com.clientname.projectname.generic.webdriverutility.Webdriverutility.java&apos;" description="Copy compilation unit" destination="=NINZA_BackEnd_Framework/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ninza.hrm.api.generic" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.clientname.projectname.generic.webdriverutility{Webdriverutility.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1731136467409" units="1" version="1.0"/>
+</session>

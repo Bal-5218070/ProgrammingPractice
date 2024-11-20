@@ -1,0 +1,11 @@
+package stringPrograms;
+
+public class ReverseEachWord {
+public static void main(String[] args) {
+	String x="ram and shyam are good friend";
+	String [] p=x.split(" ");
+	for(int i=p.length-1;i>=0;i--) {
+		System.out.println(p[i]);
+	}
+}
+}

@@ -1,0 +1,5 @@
+package practicePostRequestTypes;
+
+public class PostReq_Via_PojoTest {
+
+}

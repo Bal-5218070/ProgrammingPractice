@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Trxn_DataSimulation&apos;" deleteContents="true" description="Delete resource &apos;Trxn_DataSimulation&apos;" element1="/Trxn_DataSimulation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1730811214339"/>
+</session>

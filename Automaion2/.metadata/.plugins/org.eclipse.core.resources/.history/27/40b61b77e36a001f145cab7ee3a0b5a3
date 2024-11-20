@@ -1,0 +1,26 @@
+package stringPrograms;
+
+import java.util.LinkedHashSet;
+
+public class RemoveDuplicateAndCountVowel {
+	public static void main(String[] args) {
+		String x="india";
+		LinkedHashSet<Character> set= new LinkedHashSet<Character>();
+	for(int i=0;i<x.length()-1;i++) {
+		set.add(x.charAt(i));//set=ind
+		
+	}
+	int count=0;
+	for(Character d:set) {
+		if(d =='a'||d =='e'  ||d=='i'||d=='0'||d=='u') {
+			count++;
+			System.out.print(set);
+		}
+	}
+	System.out.print(count);
+	}
+}
+
+		
+
+

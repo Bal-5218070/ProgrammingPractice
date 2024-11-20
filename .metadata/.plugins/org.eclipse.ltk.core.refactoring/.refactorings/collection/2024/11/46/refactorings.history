@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;collection.Program7&apos; to &apos;RemoveOddNumber&apos;&#x0D;&#x0A;- Original project: &apos;collection&apos;&#x0D;&#x0A;- Original element: &apos;collection.Program7&apos;&#x0D;&#x0A;- Renamed element: &apos;collection.RemoveOddNumber&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Program7&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;collection{Program7.java[Program7" matchStrategy="1" name="RemoveOddNumber" qualified="false" references="true" similarDeclarations="false" stamp="1731606145874" textual="true" version="1.0"/>
+</session>

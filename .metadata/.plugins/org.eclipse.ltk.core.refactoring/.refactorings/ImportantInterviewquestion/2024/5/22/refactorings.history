@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;string_question.FirstNonRepeatingCharacter.java&apos; to &apos;PrintWord.java&apos;&#x0D;&#x0A;- Original project: &apos;ImportantInterviewquestion&apos;&#x0D;&#x0A;- Original element: &apos;string_question.FirstNonRepeatingCharacter.java&apos;&#x0D;&#x0A;- Renamed element: &apos;string_question.PrintWord.java&apos;" description="Rename compilation unit &apos;FirstNonRepeatingCharacter.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/$RECYCLE.BIN\/S-1-5-21-981584705-2276432943-3048483408-1001&lt;string_question{FirstNonRepeatingCharacter.java" name="PrintWord.java" references="false" stamp="1717084528119" version="1.0"/>
+</session>
